@@ -1,0 +1,4 @@
+print "Merhaba dünya"
+
+:wq!
+
